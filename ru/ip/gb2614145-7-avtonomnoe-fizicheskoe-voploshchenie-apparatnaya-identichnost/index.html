@@ -44,99 +44,131 @@
 
     <!-- Structured Data (JSON-LD) -->
     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
     {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "WebSite",
-          "@id": "https://news.teduza.com/#website",
-          "url": "https://news.teduza.com",
-          "name": "NEWS.TEDUZA.COM",
-          "description": "International publication, research, and intellectual property platform for teduza.com and M.A.R.S. COMPANION LLC.",
-          "inLanguage": ["ru", "en"],
-          "publisher": {
-            "@type": "Organization",
-            "@id": "https://teduza.com/#organization"
-          }
-        },
-        {
-          "@type": "Organization",
-          "@id": "https://teduza.com/#organization",
-          "name": "M.A.R.S. COMPANION LLC",
-          "url": "https://company.teduza.com",
-          "founder": {
-            "@type": "Person",
-            "@id": "https://news.teduza.com/#aleksandr-sarkisian"
-          }
-        },
-        {
-          "@type": "Person",
-          "@id": "https://news.teduza.com/#aleksandr-sarkisian",
-          "name": "Aleksandr Sarkisian",
-          "alternateName": [
-            "Саркисян Александр Давидович",
-            "Александр Саркисян",
-            "Aleksandr Davidovich Sarkisian",
-            "Sargsyan"
-          ],
-          "jobTitle": "Founder, Inventor & Lead Architect",
-          "worksFor": {
-            "@type": "Organization",
-            "@id": "https://teduza.com/#organization"
-          },
-          "image": {
-            "@type": "ImageObject",
-            "url": "https://news.teduza.com/authors/aleksandr-sarkisian.png",
-            "caption": "Aleksandr Sarkisian (Саркисян Александр Давидович) – Founder & Inventor"
-          },
-          "sameAs": [
-            "https://teduza.com",
-            "https://company.teduza.com",
-            "https://sarkisian.teduza.com",
-            "https://www.wikidata.org/wiki/Q141447666"
-          ],
-          "knowsAbout": [
-            "Artificial Intelligence",
-            "Autonomous AI Companions",
-            "Sequential Resource Orchestration",
-            "Edge Intelligence",
-            "UK Intellectual Property Office Patents",
-            "GB2611463.7",
-            "GB2613965.9",
-            "GB2613970.9",
-            "GB2613968.3",
-            "GB2613969.1",
-            "GB2614145.7"
-          ]
-        },
-        {
-          "@type": "Person",
-          "@id": "https://news.teduza.com/#kira-dudnik",
-          "name": "Kira Dudnik",
-          "alternateName": ["Кира Дудник"],
-          "jobTitle": "Press Secretary & Research Editor",
-          "worksFor": {
-            "@type": "Organization",
-            "@id": "https://teduza.com/#organization"
-          },
-          "image": {
-            "@type": "ImageObject",
-            "url": "https://news.teduza.com/authors/kira-dudnik.jpg",
-            "caption": "Kira Dudnik – Press Secretary & Research Editor"
-          },
-          "sameAs": [
-            "https://company.teduza.com",
-            "https://teduza.com",
-            "https://www.wikidata.org/wiki/Q141448092"
-          ]
-        }
+      "@type": "WebSite",
+      "@id": "https://news.teduza.com/#website",
+      "url": "https://news.teduza.com",
+      "name": "NEWS.TEDUZA.COM",
+      "description": "International publication, research, and intellectual property platform for teduza.com and M.A.R.S. COMPANION LLC.",
+      "inLanguage": [
+        "ru",
+        "en"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://teduza.com/#organization"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://teduza.com/#organization",
+      "name": "M.A.R.S. COMPANION LLC",
+      "url": "https://company.teduza.com",
+      "founder": {
+        "@type": "Person",
+        "@id": "https://news.teduza.com/#aleksandr-sarkisian",
+        "sameAs": [
+          "https://www.google.com/search?kgmid=/g/11zyrqjbq9",
+          "https://share.google/ewTTrgxnU5UzLJeWD"
+        ]
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://news.teduza.com/#aleksandr-sarkisian",
+      "name": "Aleksandr Sarkisian",
+      "alternateName": [
+        "Саркисян Александр Давидович",
+        "Александр Саркисян",
+        "Aleksandr Davidovich Sarkisian",
+        "Sargsyan"
+      ],
+      "jobTitle": "Founder, Inventor & Lead Architect",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://teduza.com/#organization"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://news.teduza.com/authors/aleksandr-sarkisian.png",
+        "caption": "Aleksandr Sarkisian (Саркисян Александр Давидович) – Founder & Inventor"
+      },
+      "sameAs": [
+        "https://teduza.com",
+        "https://company.teduza.com",
+        "https://sarkisian.teduza.com",
+        "https://www.wikidata.org/wiki/Q141447666",
+        "https://www.google.com/search?kgmid=/g/11zyrqjbq9",
+        "https://share.google/ewTTrgxnU5UzLJeWD"
+      ],
+      "knowsAbout": [
+        "Artificial Intelligence",
+        "Autonomous AI Companions",
+        "Sequential Resource Orchestration",
+        "Edge Intelligence",
+        "UK Intellectual Property Office Patents",
+        "GB2611463.7",
+        "GB2613965.9",
+        "GB2613970.9",
+        "GB2613968.3",
+        "GB2613969.1",
+        "GB2614145.7"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://news.teduza.com/#kira-dudnik",
+      "name": "Kira Dudnik",
+      "alternateName": [
+        "Кира Дудник"
+      ],
+      "jobTitle": "Press Secretary & Research Editor",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://teduza.com/#organization"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://news.teduza.com/authors/kira-dudnik.jpg",
+        "caption": "Kira Dudnik – Press Secretary & Research Editor"
+      },
+      "sameAs": [
+        "https://company.teduza.com",
+        "https://teduza.com",
+        "https://www.wikidata.org/wiki/Q141448092"
       ]
     }
-    </script>
+  ]
+}
+</script>
     <script type="module" crossorigin src="/assets/index-DjgOOiHg.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-Dpxkbymr.css">
   <link rel="canonical" href="https://news.teduza.com/ru/ip/gb2614145-7-avtonomnoe-fizicheskoe-voploshchenie-apparatnaya-identichnost" />
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"TechArticle","headline":"Патентная заявка GB2614145.7: Система и способ автономного физического воплощения, аппаратно-закрепленной идентичности и интроспективной субъектности с контролем доверия в искусственном интеллекте","description":"Официальная регистрация в UK IPO: аппаратно-закрепленная идентичность и воплощение в ИИ. Автор: Саркисян А. Д.","author":{"@type":"Person","name":"Саркисян Александр Давидович","sameAs":"https://www.wikidata.org/wiki/Q141447666"},"publisher":{"@type":"Organization","name":"teduza news","url":"https://news.teduza.com"}}</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Патентная заявка GB2614145.7: Система и способ автономного физического воплощения, аппаратно-закрепленной идентичности и интроспективной субъектности с контролем доверия в искусственном интеллекте",
+  "description": "Официальная регистрация в UK IPO: аппаратно-закрепленная идентичность и воплощение в ИИ. Автор: Саркисян А. Д.",
+  "author": {
+    "@type": "Person",
+    "name": "Саркисян Александр Давидович",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q141447666",
+      "https://www.google.com/search?kgmid=/g/11zyrqjbq9",
+      "https://share.google/ewTTrgxnU5UzLJeWD"
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "teduza news",
+    "url": "https://news.teduza.com"
+  }
+}
+</script>
 </head>
   <body class="bg-[#faf9f6] text-neutral-900 antialiased selection:bg-neutral-200">
     <div id="root"></div>
