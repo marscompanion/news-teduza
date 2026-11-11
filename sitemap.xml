@@ -221,6 +221,306 @@
     <priority>0.95</priority>
   </url>
 
+  <!-- 7. GB2624388.1 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2624388-1-determinirovannaya-defragmentatsiya-operativnoy-pamyati-mikrokontrollerov</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2624388-1-determinirovannaya-defragmentatsiya-operativnoy-pamyati-mikrokontrollerov" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2624388-1-deterministic-lifetime-graph-volatile-memory-defragmentation" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2624388-1-deterministic-lifetime-graph-volatile-memory-defragmentation</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2624388-1-determinirovannaya-defragmentatsiya-operativnoy-pamyati-mikrokontrollerov" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2624388-1-deterministic-lifetime-graph-volatile-memory-defragmentation" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 8. GB2624406.1 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2624406-1-apparatnaya-ierarkhicheskaya-derivatsiya-klyuchey-potokovoe-deshifrovanie</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2624406-1-apparatnaya-ierarkhicheskaya-derivatsiya-klyuchey-potokovoe-deshifrovanie" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2624406-1-hardware-bound-hierarchical-key-derivation-streaming-decryption" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2624406-1-hardware-bound-hierarchical-key-derivation-streaming-decryption</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2624406-1-apparatnaya-ierarkhicheskaya-derivatsiya-klyuchey-potokovoe-deshifrovanie" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2624406-1-hardware-bound-hierarchical-key-derivation-streaming-decryption" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 9. GB2624409.5 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2624409-5-detsentralizovannyy-ad-hoc-protokol-mnogoagentnoy-sinkhronizatsii</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2624409-5-detsentralizovannyy-ad-hoc-protokol-mnogoagentnoy-sinkhronizatsii" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2624409-5-decentralized-peer-to-peer-ad-hoc-communication-coordination" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2624409-5-decentralized-peer-to-peer-ad-hoc-communication-coordination</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2624409-5-detsentralizovannyy-ad-hoc-protokol-mnogoagentnoy-sinkhronizatsii" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2624409-5-decentralized-peer-to-peer-ad-hoc-communication-coordination" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 10. GB2624414.5 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2624414-5-postranichnaya-indeksatsiya-oflayn-vektornykh-baz-dannykh-flesh-pamyat</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2624414-5-postranichnaya-indeksatsiya-oflayn-vektornykh-baz-dannykh-flesh-pamyat" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2624414-5-page-aligned-hierarchical-quantized-offline-vector-database" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2624414-5-page-aligned-hierarchical-quantized-offline-vector-database</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2624414-5-postranichnaya-indeksatsiya-oflayn-vektornykh-baz-dannykh-flesh-pamyat" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2624414-5-page-aligned-hierarchical-quantized-offline-vector-database" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 11. GB2624415.2 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2624415-2-besservernoe-opportunisticheskoe-federativnoe-obuchenie-avtonomnykh-modeley</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2624415-2-besservernoe-opportunisticheskoe-federativnoe-obuchenie-avtonomnykh-modeley" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2624415-2-serverless-opportunistic-federated-training-low-rank-optimization" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2624415-2-serverless-opportunistic-federated-training-low-rank-optimization</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2624415-2-besservernoe-opportunisticheskoe-federativnoe-obuchenie-avtonomnykh-modeley" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2624415-2-serverless-opportunistic-federated-training-low-rank-optimization" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 12. GB2624416.0 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2624416-0-oflayn-ii-logistika-konteynernogo-terminala-morskie-porty</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2624416-0-oflayn-ii-logistika-konteynernogo-terminala-morskie-porty" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2624416-0-offline-ai-container-terminal-logistics-seaport-orchestration" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2624416-0-offline-ai-container-terminal-logistics-seaport-orchestration</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2624416-0-oflayn-ii-logistika-konteynernogo-terminala-morskie-porty" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2624416-0-offline-ai-container-terminal-logistics-seaport-orchestration" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 13. GB2626659.3 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626659-3-kompleksirovanie-kompyuternogo-zreniya-i-telemetrii-avtonomnaya-navigatsiya</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626659-3-kompleksirovanie-kompyuternogo-zreniya-i-telemetrii-avtonomnaya-navigatsiya" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626659-3-multi-sensor-computer-vision-spatial-telemetry-fusion-navigation" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626659-3-multi-sensor-computer-vision-spatial-telemetry-fusion-navigation</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626659-3-kompleksirovanie-kompyuternogo-zreniya-i-telemetrii-avtonomnaya-navigatsiya" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626659-3-multi-sensor-computer-vision-spatial-telemetry-fusion-navigation" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 14. GB2626660.1 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626660-1-detsentralizovannyy-multispektralnyy-monitoring-perimetra-bezopasnosti</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626660-1-detsentralizovannyy-multispektralnyy-monitoring-perimetra-bezopasnosti" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626660-1-decentralized-multi-spectral-security-perimeter-surveillance" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626660-1-decentralized-multi-spectral-security-perimeter-surveillance</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626660-1-detsentralizovannyy-multispektralnyy-monitoring-perimetra-bezopasnosti" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626660-1-decentralized-multi-spectral-security-perimeter-surveillance" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 15. GB2626661.9 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626661-9-prediktivnaya-izolyatsiya-neispravnostey-strukturnaya-tselostnost-porty</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626661-9-prediktivnaya-izolyatsiya-neispravnostey-strukturnaya-tselostnost-porty" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626661-9-predictive-mechanical-fault-isolation-structural-integrity" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626661-9-predictive-mechanical-fault-isolation-structural-integrity</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626661-9-prediktivnaya-izolyatsiya-neispravnostey-strukturnaya-tselostnost-porty" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626661-9-predictive-mechanical-fault-isolation-structural-integrity" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 16. GB2626662.7 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626662-7-mars-os-mikroyadernaya-operatsionnaya-sistema-realnogo-vremeni</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626662-7-mars-os-mikroyadernaya-operatsionnaya-sistema-realnogo-vremeni" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626662-7-mars-os-real-time-microkernel-operating-system-edge-devices" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626662-7-mars-os-real-time-microkernel-operating-system-edge-devices</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626662-7-mars-os-mikroyadernaya-operatsionnaya-sistema-realnogo-vremeni" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626662-7-mars-os-real-time-microkernel-operating-system-edge-devices" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 17. GB2626663.5 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626663-5-intellektualnaya-filtratsiya-telemetrii-adaptivnoe-szhatie</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626663-5-intellektualnaya-filtratsiya-telemetrii-adaptivnoe-szhatie" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626663-5-predictive-residual-telemetry-filtration-adaptive-sampling" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626663-5-predictive-residual-telemetry-filtration-adaptive-sampling</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626663-5-intellektualnaya-filtratsiya-telemetrii-adaptivnoe-szhatie" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626663-5-predictive-residual-telemetry-filtration-adaptive-sampling" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 18. GB2626665.0 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626665-0-sobytiynaya-svertochnaya-neyroset-asinkhronnoe-obnaruzhenie-obektov</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626665-0-sobytiynaya-svertochnaya-neyroset-asinkhronnoe-obnaruzhenie-obektov" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626665-0-event-driven-tile-gated-cnn-asynchronous-object-detection" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626665-0-event-driven-tile-gated-cnn-asynchronous-object-detection</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626665-0-sobytiynaya-svertochnaya-neyroset-asinkhronnoe-obnaruzhenie-obektov" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626665-0-event-driven-tile-gated-cnn-asynchronous-object-detection" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 19. GB2626666.8 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626666-8-prediktivnyy-analiz-telemetrii-proaktivnaya-izolyatsiya-sboev</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626666-8-prediktivnyy-analiz-telemetrii-proaktivnaya-izolyatsiya-sboev" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626666-8-predictive-multi-channel-telemetry-hardware-fault-isolation" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626666-8-predictive-multi-channel-telemetry-hardware-fault-isolation</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626666-8-prediktivnyy-analiz-telemetrii-proaktivnaya-izolyatsiya-sboev" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626666-8-predictive-multi-channel-telemetry-hardware-fault-isolation" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 20. GB2626667.6 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626667-6-szhataya-uslovnaya-generativnaya-set-redkie-sobytiya</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626667-6-szhataya-uslovnaya-generativnaya-set-redkie-sobytiya" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626667-6-compressed-conditional-gan-synthetic-data-generation-edge" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626667-6-compressed-conditional-gan-synthetic-data-generation-edge</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626667-6-szhataya-uslovnaya-generativnaya-set-redkie-sobytiya" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626667-6-compressed-conditional-gan-synthetic-data-generation-edge" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 21. GB2626668.4 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626668-4-dinamicheskoe-planirovanie-resursov-asinkhronnye-periferiynye-vychisleniya</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626668-4-dinamicheskoe-planirovanie-resursov-asinkhronnye-periferiynye-vychisleniya" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626668-4-slack-aware-multi-criteria-dynamic-priority-resource-scheduling" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626668-4-slack-aware-multi-criteria-dynamic-priority-resource-scheduling</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626668-4-dinamicheskoe-planirovanie-resursov-asinkhronnye-periferiynye-vychisleniya" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626668-4-slack-aware-multi-criteria-dynamic-priority-resource-scheduling" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 22. GB2626669.2 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626669-2-steganograficheskiy-protokol-peredachi-parametrov-neyrosetey</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626669-2-steganograficheskiy-protokol-peredachi-parametrov-neyrosetey" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626669-2-keyed-low-observability-steganographic-communication-protocol" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626669-2-keyed-low-observability-steganographic-communication-protocol</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626669-2-steganograficheskiy-protokol-peredachi-parametrov-neyrosetey" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626669-2-keyed-low-observability-steganographic-communication-protocol" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 23. GB2626670.0 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626670-0-diffuznaya-balansirovka-nagruzki-geterogennye-uzly-mesh-seti</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626670-0-diffuznaya-balansirovka-nagruzki-geterogennye-uzly-mesh-seti" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626670-0-automated-capability-vector-diffusive-load-balancing-mesh" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626670-0-automated-capability-vector-diffusive-load-balancing-mesh</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626670-0-diffuznaya-balansirovka-nagruzki-geterogennye-uzly-mesh-seti" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626670-0-automated-capability-vector-diffusive-load-balancing-mesh" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 24. GB2626672.6 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626672-6-rekursivnaya-nizkorangovaya-rekonfiguratsiya-sloev-neyrosetey</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626672-6-rekursivnaya-nizkorangovaya-rekonfiguratsiya-sloev-neyrosetey" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626672-6-edge-contained-recursive-sensor-feedback-low-rank-reconfiguration" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626672-6-edge-contained-recursive-sensor-feedback-low-rank-reconfiguration</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626672-6-rekursivnaya-nizkorangovaya-rekonfiguratsiya-sloev-neyrosetey" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626672-6-edge-contained-recursive-sensor-feedback-low-rank-reconfiguration" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 25. GB2626673.4 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626673-4-kriptograficheskoe-kodirovanie-zashchita-ot-atak-po-storonnim-kanalam</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626673-4-kriptograficheskoe-kodirovanie-zashchita-ot-atak-po-storonnim-kanalam" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626673-4-non-linear-cryptographic-encoding-side-channel-protection" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626673-4-non-linear-cryptographic-encoding-side-channel-protection</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626673-4-kriptograficheskoe-kodirovanie-zashchita-ot-atak-po-storonnim-kanalam" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626673-4-non-linear-cryptographic-encoding-side-channel-protection" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 26. GB2626674.2 -->
+  <url>
+    <loc>https://news.teduza.com/ru/ip/gb2626674-2-zhurnaliruemyy-atomarnyy-chekpointing-bezopasnaya-zagruzka-nvram</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626674-2-zhurnaliruemyy-atomarnyy-chekpointing-bezopasnaya-zagruzka-nvram" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626674-2-journaled-dual-slot-atomic-checkpointing-measured-boot" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/ip/gb2626674-2-journaled-dual-slot-atomic-checkpointing-measured-boot</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/ip/gb2626674-2-zhurnaliruemyy-atomarnyy-chekpointing-bezopasnaya-zagruzka-nvram" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/ip/gb2626674-2-journaled-dual-slot-atomic-checkpointing-measured-boot" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
   <!-- Informational pages -->
   <url>
     <loc>https://news.teduza.com/ru/about</loc>
